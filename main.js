@@ -1,3 +1,7 @@
+/*
+  Author : Yogesh Gaur
+*/
+
 (function ($) {
   "use strict";
 
